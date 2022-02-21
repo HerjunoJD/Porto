@@ -5,7 +5,6 @@ import Image from 'next/image'
 const SubBoxDiv = styled.div`
     display: flex;
     align-items: center;
-    padding: 1em;
     `
 const Text = styled.p`
     font-size: 1.5em;

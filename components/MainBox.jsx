@@ -9,6 +9,7 @@ const MainBox = styled.div`
         justify-content: space-around;
         height: 50vh;
         margin-top: 5em;
+        overflow: auto;
         `
         : css`
         flex-direction: column;
@@ -16,7 +17,7 @@ const MainBox = styled.div`
         `}
     display: flex;
     padding: 1em;
-    margin-bottom: 1em;
+    margin-bottom: 3em;
     `
 
 export default MainBox;

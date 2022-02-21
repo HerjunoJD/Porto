@@ -37,6 +37,13 @@ export const Page = styled.section`
 }
     `
 
+export const ProfWrapper = styled.div`
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    `
+
 export const Profic = styled.div`
     width: 20vw;
     height: 20vw;
@@ -62,5 +69,26 @@ export const Blurbs = styled.p`
     font-family: "Times New Roman", Times, serif;
     font-size: 2em;
     margin-top: 0;
+    margin-bottom: 0.5em;
+    `
+
+export const ProfileBlurbs = styled.p`
+    font-weight: 500;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.25em;
+    margin: 0;
     margin-bottom: 3em;
+    `
+
+export const PortoWrapper = styled.div`
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 2em;
+    `
+
+export const PortoBlurbs = styled.p`
+    font-size: 1em;
+    color:white;
     `
