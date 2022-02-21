@@ -20,7 +20,7 @@ export default function Home() {
           <Profic />
           <PageTitle>Herjuno Jati Darpito</PageTitle>
           <Blurbs>Back-End Developer based in Jakarta</Blurbs>
-          <ProfileBlurbs>Hello there! My name is Juno, an aspiring coder from Jakarta. While I have no background in tech education, I find the field of programming to be an interesting place to venture on. I'm currently looking for opportunity to be employed and utilize the skills I've learned in programming.</ProfileBlurbs>
+          <ProfileBlurbs>Hello there! My name is Juno, an aspiring coder from Jakarta. While I have no background in tech education, I find the field of programming to be an interesting place to venture on. I&apos;m currently looking for opportunity to be employed and utilize the skills I&apos;ve learned in programming.</ProfileBlurbs>
         </ProfWrapper>
       </Page>
       <Page id='skills'>
@@ -84,7 +84,7 @@ export default function Home() {
                 tools='React, Express JS, Socket.io'
                 role='Role - Frontend and Backend'
               />
-              <PortoBlurbs>Similar to previous one, this is also a personal project although for this one it's more on trying off tutorials on youtube.</PortoBlurbs>
+              <PortoBlurbs>Similar to previous one, this is also a personal project although for this one it&apos;s more on trying off tutorials on youtube.</PortoBlurbs>
             </PortoWrapper>
           </MainBox>
       </Page>
