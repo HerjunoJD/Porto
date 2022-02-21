@@ -91,7 +91,6 @@ export default function Home() {
       <Page id='contact' contact={true}>
           <PageTitle>How to find me</PageTitle>
           <MainBox>
-            {/* Sama ini kayak yang proficiencies */}
             <a href='https://github.com/HerjunoJD'>
                 <SubBox image='/images/github.png'  text='@HerjunoJD' />
             </a>
